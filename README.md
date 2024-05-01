@@ -22,5 +22,5 @@ index.html: Contém a estrutura HTML para exibir o relógio digital.<br>
 assets/css/style.css: Arquivo CSS para estilizar o relógio.<br>
 assets/js/script.js: Arquivo JavaScript para atualizar dinamicamente o horário no relógio.<br>
 
-Autor
+Autor<br>
 Gustavo Maxwel
