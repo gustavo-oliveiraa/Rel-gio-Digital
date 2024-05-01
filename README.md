@@ -18,9 +18,9 @@ JavaScript
 <br>
 
 Estrutura do Projeto:
-index.html: Contém a estrutura HTML para exibir o relógio digital.
-assets/css/style.css: Arquivo CSS para estilizar o relógio.
-assets/js/script.js: Arquivo JavaScript para atualizar dinamicamente o horário no relógio.
+index.html: Contém a estrutura HTML para exibir o relógio digital.<br>
+assets/css/style.css: Arquivo CSS para estilizar o relógio.<br>
+assets/js/script.js: Arquivo JavaScript para atualizar dinamicamente o horário no relógio.<br>
 
 Autor
 Gustavo Maxwel
