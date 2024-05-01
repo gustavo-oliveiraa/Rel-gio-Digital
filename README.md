@@ -1,11 +1,11 @@
-Relógio Digital
+Relógio Digital<br>
 
 Este é um simples projeto de relógio digital desenvolvido por Gustavo Maxwel.
 
-Acesso ao Relógio Digital
+Acesso ao Relógio Digital<br>
 Para acessar o relógio digital, [clique aqui!](https://relogio-digital-nine-neon.vercel.app)
 
-Como Funciona
+Como Funciona<br>
 O relógio digital exibe as horas, minutos e segundos atuais. Os valores são atualizados em tempo real.
 
 Tecnologias Utilizadas
