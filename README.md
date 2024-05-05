@@ -1,4 +1,3 @@
-<title>Relógio Digital</title>
 <h1>Relógio Digital</h1>
 
 <p>Este é um simples projeto de relógio digital desenvolvido por Gustavo Maxwel.</p>
