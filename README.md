@@ -1,26 +1,27 @@
-Relógio Digital<br>
+<title>Relógio Digital</title>
+<h1>Relógio Digital</h1>
 
-Este é um simples projeto de relógio digital desenvolvido por Gustavo Maxwel.
+<p>Este é um simples projeto de relógio digital desenvolvido por Gustavo Maxwel.</p>
 
-Acesso ao Relógio Digital<br>
-Para acessar o relógio digital, [clique aqui!](https://relogio-digital-nine-neon.vercel.app)
+<p>Acesso ao Relógio Digital</p>
+<p>Para acessar o relógio digital, <a href="https://relogio-digital-nine-neon.vercel.app">clique aqui!</a></p>
 
-Como Funciona<br>
-O relógio digital exibe as horas, minutos e segundos atuais. Os valores são atualizados em tempo real.
+<h2>Como Funciona</h2>
+<p>O relógio digital exibe as horas, minutos e segundos atuais. Os valores são atualizados em tempo real.</p>
 
-Tecnologias Utilizadas
-<br>
-HTML
-<br>
-CSS
-<br>
-JavaScript
-<br>
+<h2>Tecnologias Utilizadas</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
 
-Estrutura do Projeto:
-index.html: Contém a estrutura HTML para exibir o relógio digital.<br>
-assets/css/style.css: Arquivo CSS para estilizar o relógio.<br>
-assets/js/script.js: Arquivo JavaScript para atualizar dinamicamente o horário no relógio.<br>
+<h2>Estrutura do Projeto</h2>
+  <ul>
+    <li>index.html: Contém a estrutura HTML para exibir o relógio digital.</li>
+    <li>assets/css/style.css: Arquivo CSS para estilizar o relógio.</li>
+    <li>assets/js/script.js: Arquivo JavaScript para atualizar dinamicamente o horário no relógio.</li>
+  </ul>
 
-Autor<br>
-Gustavo Maxwel
+<h2>Autor</h2>
+<p>Gustavo Maxwel</p>
